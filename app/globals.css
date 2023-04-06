@@ -105,3 +105,8 @@ a {
     color-scheme: dark;
   }
 }
+
+/* Tailwind configuration */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
